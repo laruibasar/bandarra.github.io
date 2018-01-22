@@ -1,9 +1,8 @@
 .jumbotron {
-	background-image: url('../img/andre-benz-248744.jpg');
+	background-image: url('../img/background.jpg');
 	background-position: 0;
 	background-size: cover;
 	background-repeat: no-repeat;
 	color: white;
-
 	min-height: 400px;
 }
